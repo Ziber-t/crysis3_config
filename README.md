@@ -10,20 +10,21 @@ Config for Crysis3 with HD(max) graphic
 <body>
 
 <p>This help file contains the cvar names and details available in Crysis 3.</p>
-<h1>Gameplay</h1><h3>Field of View</h3>
-
-<div style="display: flex">
-    <img src"https://github.com/Ziber-t/crysis3_config/master/crysis3_config/screenShots/Screen1.jpg"/>
-    <img src"https://github.com/Ziber-t/crysis3_config/master/crysis3_config/screenShots/Screen2.jpg"/>
-    <img src"https://github.com/Ziber-t/crysis3_config/master/crysis3_config/screenShots/Screen3.jpg"/>
-    <img src"https://github.com/Ziber-t/crysis3_config/master/crysis3_config/screenShots/Screen4.jpg"/>
-    <img src"https://github.com/Ziber-t/crysis3_config/master/crysis3_config/screenShots/Screen5.jpg"/>
-</div>
+<h1>Gameplay</h1>
 
 
 
-
-
+![alt Screen](https://github.com/Ziber-t/crysis3_config/raw/master/screenShots/Screen3.jpg)
+=======================================================================================
+![alt Screen](https://github.com/Ziber-t/crysis3_config/raw/master/screenShots/Screen2.jpg)
+=======================================================================================
+![alt Screen](https://github.com/Ziber-t/crysis3_config/raw/master/screenShots/Screen1.jpg)
+=======================================================================================
+![alt Screen](https://github.com/Ziber-t/crysis3_config/raw/master/screenShots/Screen4.jpg)
+=======================================================================================
+![alt Screen](https://github.com/Ziber-t/crysis3_config/raw/master/screenShots/Screen5.jpg)
+=======================================================================================
+<h3>Field of View</h3>
 <p>CVar: <code>cl_fov</code></p>
 <p>Recommended to be placed in <code>system.cfg</code></p>
 <p>The vertical field of view in degrees.<br />This controls several individual FOV controls That you can tweak manually if you prefer:<br /><br />cl_FOV - The main field of view<br />r_DrawNearFOV - the field of view for nearby objects (held weapon, etc)<br />pl_movement.power_sprint_targetFOV - The field of view while power sprinting<br /><br />Default Value: 60</p>
